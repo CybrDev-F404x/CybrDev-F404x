@@ -52,5 +52,5 @@
 
 <!--tech stack icons-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,react,netlify,git,github,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,react,mysql,netlify,git,github,vscode,discord)](https://skillicons.dev)
 

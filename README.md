@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Franko </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things](https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%2300FF41&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Always+learning+new+things"></a>
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%2300FF41&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;Always+learning+new+things"></a>
 </p>
 
 ## 🕹️ About me
@@ -53,4 +53,27 @@
 <!--tech stack icons-->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,react,mysql,netlify,git,github,vscode,discord)](https://skillicons.dev)
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🌱 What I Want to Learn Next</h2></summary>
+  </ul>
+</div>
+
+<!--learning goals icons-->
+[![Learning Goals](https://skillicons.dev/icons?i=nodejs,nextjs,react,fastapi,py,tailwind,mongodb,docker,ts,postgres,express)](https://skillicons.dev)
+
+<br>
+
+- ⚡ Deepening my knowledge in **Node.js** & **Next.js**  
+- 🔄 Using **React Query** for efficient state & data fetching  
+- 🛠️ Building strong **backends with FastAPI**  
+- 📊 Exploring **Machine Learning** fundamentals  
+- 🎨 Creating beautiful UIs with **TailwindCSS**  
+- 🗄️ Working with **MongoDB** and databases for real-world apps  
+- 📦 Mastering **Docker** for containerized applications  
+- ✨ Writing cleaner code with **TypeScript**  
+- 🔥 Learning the **PERN (Postgres, Express, React, Node)** stack  
+- 🚀 Exploring the **MERN (Mongo, Express, React, Node)** stack  
 

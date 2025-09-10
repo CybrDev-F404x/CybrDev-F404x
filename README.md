@@ -42,7 +42,7 @@
 </div>
 
 <!--learning goals icons-->
-[![Learning Goals](https://skillicons.dev/icons?i=nodejs,nextjs,react,fastapi,py,tailwind,mongodb,docker,ts,postgres,express)](https://skillicons.dev)
+[![Learning Goals](https://skillicons.dev/icons?i=nodejs,nextjs,react,fastapi,tailwind,mongodb,docker,ts,postgres,express)](https://skillicons.dev)
 
 <br>
 

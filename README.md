@@ -74,7 +74,7 @@
 <td width="50%" align="center">
 
   <!--   -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybrDev-F404x&theme=dark&langs_count=10&hide="/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybrDev-F404x&theme=dark&langs_count=10&hide=hack"/>
   
 </td>
 </tr>

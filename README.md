@@ -32,7 +32,7 @@
 
 <!--tech stack icons-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,react,mysql,netlify,git,github,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,react,mysql,netlify,git,github,vscode,androidstudio,discord,notion)](https://skillicons.dev)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">

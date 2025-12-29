@@ -14,7 +14,7 @@
 - :man_technologist: Currently training to become a `developer` and growing professionally in the `tech world`.  
 - :heart: Passionate about `programming` and always eager to learn more to bring real value to every project.  
 - :dart: Motivated by challenges that push me to improve and opportunities to collaborate with teams that make a difference.  
-- :books: Exploring new technologies while improving my skills in `JavaScript`.  
+- :books: Exploring new technologies while improving my skills in `Python`.  
 - :hammer_and_wrench: Gaining experience through projects that help me evolve as a `software developer`.  
 - :nerd_face: Always `learning`, combining studies with hands-on experiences.  
 - :handshake: Open to collaboration in `freelance projects`, `open-source contributions`, or `team environments` looking for young talent.  

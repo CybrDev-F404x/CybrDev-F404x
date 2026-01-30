@@ -32,7 +32,7 @@
 
 <!--tech stack icons-->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql,netlify,git,github,vscode,androidstudio,discord,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,fastapi,php,mysql,netlify,git,github,vscode,androidstudio,discord,notion)](https://skillicons.dev)
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -42,7 +42,7 @@
 </div>
 
 <!--learning goals icons-->
-[![Learning Goals](https://skillicons.dev/icons?i=nodejs,nextjs,react,fastapi,tailwind,mongodb,docker,ts,postgres,express)](https://skillicons.dev)
+[![Learning Goals](https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind,mongodb,docker,ts,postgres,express)](https://skillicons.dev)
 
 <br>
 
